@@ -1,2 +1,2 @@
-# simple_comut
-Simple examples in python for working with comutation / complex categorical data 
+# Simple Comutation Plots
+looking to provide some examples of simple declarative data viz packages (Altair atm) to visualize alteration data. 
